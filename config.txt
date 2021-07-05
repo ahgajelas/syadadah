@@ -4,6 +4,6 @@
 {
 	"ip":"tempatsurvival.aternos.me",
 	"port": "13602",
-	"name": "serveronline",
+	"name": "The Skrek",
 	"auto-night-skip":"false"
 }
