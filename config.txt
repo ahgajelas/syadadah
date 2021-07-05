@@ -1,0 +1,9 @@
+(ini hapus aja , Jangan lupa subscribe lemes aku cuk)
+
+
+{
+	"ip":"tempatsurvival.aternos.me",
+	"port": "13602",
+	"name": "serveronline",
+	"auto-night-skip":"false"
+}
